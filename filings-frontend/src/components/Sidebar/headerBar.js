@@ -254,7 +254,7 @@ export default function HeaderBar(props) {
                     noWrap
                     component="div"
                   >
-                    Intellecto Global Services
+                    Enquiry Hub
                   </Typography>
                 </Button>
               </Box>
